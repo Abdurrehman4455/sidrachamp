@@ -196,7 +196,7 @@ export default function Footer() {
             </a>
 
             <a
-              href="https://www.google.com/maps?q=Islamabad+Sports+Complex,+Islamabad+Capital+Territory"
+              href="https://maps.app.goo.gl/6qfHGJLDXHMALnE26"
               className="text-gray-300 hover:text-blue-400 transition duration-300"
               target="_blank"
               rel="noopener noreferrer"
