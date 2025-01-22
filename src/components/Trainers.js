@@ -12,12 +12,12 @@ const Trainer = () => {
         {/* Left Text Content */}
         <div className="flex flex-col mt-32">
           <h2 className="text-2xl md:text-3xl font-extrabold text-gray-800 mb-6 mt-16">
-            SYED OQAIB HUSAIN SHAH (Karate Expert)
+            SYED UQAIB HUSAIN SHAH (Karate Expert)
           </h2>
           <p className="text-lg text-gray-600 mb-4">
-          Syed Oqaib Husain Shah is an exceptional karate trainer who has made a significant impact in the martial arts community. With years of dedication and expertise, he has not only excelled as a trainer but also as a distinguished athlete.          </p>
+          Syed Uqaib Husain Shah is an exceptional karate trainer who has made a significant impact in the martial arts community. With years of dedication and expertise, he has not only excelled as a trainer but also as a distinguished athlete.          </p>
           <p className="text-lg text-gray-600">
-          Syed Oqaib has participated in various national-level tournaments, showcasing his extraordinary skills and discipline. His remarkable performances have earned him numerous medals, making him a celebrated figure in karate. Known for his passion and commitment, he continues to inspire aspiring martial artists through his coaching and achievements. His contributions to karate at the national level have elevated the sport's standard in Pakistan, earning him respect and admiration from peers and students alike.          </p>
+          Syed Uqaib has participated in various national-level tournaments, showcasing his extraordinary skills and discipline. His remarkable performances have earned him numerous medals, making him a celebrated figure in karate. Known for his passion and commitment, he continues to inspire aspiring martial artists through his coaching and achievements. His contributions to karate at the national level have elevated the sport's standard in Pakistan, earning him respect and admiration from peers and students alike.          </p>
           
         </div>
 
